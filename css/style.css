@@ -1,0 +1,23 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	margin-top: 30px;
+}
+.border-5{
+	color: purple;
+}
+.p-2{
+background-color: red;
+margin-top: 20px;	
+}
+.d-flex{
+	background-color: red;
+	margin-top: 20px;
+}
+.box2{
+	border: 5px solid blue;
+}
+.mh-200{
+	min-height: 200px;
+}
